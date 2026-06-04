@@ -12,9 +12,9 @@
 class Triage < Formula
   desc "TUI to monitor parallel Claude Code and Codex CLI sessions across tmux panes"
   homepage "https://github.com/inkless/triage"
-  url "https://static.crates.io/crates/triage-tui/triage-tui-0.1.0.crate"
-  version "0.1.0"
-  sha256 "ac0779d23c649f89e1cae51dc92f03c83f9bf267645bcc1c0f56b74aafbf9522"
+  url "https://static.crates.io/crates/triage-tui/triage-tui-0.2.0.crate"
+  version "0.2.0"
+  sha256 "c5317e6926fdcafa900ba59433d8ef91f87b6ea26d3bc1c7b44122796b43ca41"
   license any_of: ["MIT", "Apache-2.0"]
   head "https://github.com/inkless/triage.git", branch: "main"
 
